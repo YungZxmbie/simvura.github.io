@@ -375,7 +375,7 @@ h4 {
     display: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     .toggle {
         display: flex;
         justify-content: space-between;
@@ -523,6 +523,7 @@ h4 {
         justify-content: space-evenly;
         align-items: center;
         background-color: #dadada;
+        width: 100%;
     }
     footer .group {
         display: flex;
