@@ -375,7 +375,7 @@ h4 {
     display: none;
 }
 
-@media (max-width: 600px) {
+@media (min-width<= 768px) {
     .toggle {
         display: flex;
         justify-content: space-between;
