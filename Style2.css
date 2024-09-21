@@ -83,7 +83,7 @@ header{
     height: 410px;
     background-color: #ffffff50;
     /* padding: 14px; */
-    background-image: url('./ASSETS/header.jpg');
+    background-image: url('header.jpg');
     background-attachment: fixed;
     background-position: bottom;
     background-repeat: no-repeat;
